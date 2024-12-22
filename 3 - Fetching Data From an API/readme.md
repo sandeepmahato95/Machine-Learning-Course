@@ -4,3 +4,5 @@ TMDB Database API link for the list of Top Rated Movies: https://developer.themo
 
 Online JSON Viewer and Formatter: https://jsonviewer.stack.hu/
 
+RapidAPI (collections of APIs): https://rapidapi.com/hub
+
